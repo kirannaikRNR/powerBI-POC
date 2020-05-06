@@ -536,7 +536,7 @@ class Demo extends Component {
             </div>
             <footer>
               {'Made with ❤️ by '}
-              <a href="https://github.com/akshay5995">@akshay5995</a>
+             @Kiran Naik
             </footer>
           </div>
         </SplitterLayout>
