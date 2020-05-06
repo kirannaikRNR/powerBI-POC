@@ -535,7 +535,7 @@ class Demo extends Component {
               </span>
             </div>
             <footer>
-              {'Made with ❤️ by '}
+              
              @Kiran Naik
             </footer>
           </div>
