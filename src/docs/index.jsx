@@ -444,7 +444,7 @@ class Demo extends Component {
             </div>
             <footer>
               
-             @Kiran Naik
+             @Kiran 
             </footer>
           </div>
         </SplitterLayout>
