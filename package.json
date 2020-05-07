@@ -51,13 +51,13 @@
     "webpack-dev-server": "^3.10.3"
   },
   "author": {
-    "name": "Akshay Ram Vignesh A",
-    "email": "akshay5995@gmail.com"
+    "name": "Kiran Naik",
+    "email": "kiran.naik@gmail.com"
   },
-  "homepage": "http://akshay5995.github.io/powerbi-report-component",
+  "homepage": "http://kirannaikrnr.github.io/react-powebi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akshay5995/powerbi-report-component"
+    "url": "https://github.com/kirannaikrnr/react-powebi"
   },
   "dependencies": {
     "powerbi-client": "^2.11.0",
